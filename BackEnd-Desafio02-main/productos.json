@@ -1,0 +1,34 @@
+[
+	{
+		"title": "Jack Daniels",
+		"price": 13500,
+		"thumnail": "image.png",
+		"code": 13400,
+		"stock": 500,
+		"id": 3
+	},
+	{
+		"title": "Jack Daniels",
+		"price": 13800,
+		"thumnail": "image.png",
+		"code": 13500,
+		"stock": 500,
+		"id": 5
+	},
+	{
+		"id": 3,
+		"title": "AMARULA",
+		"price": 10000,
+		"thumnail": "image.png",
+		"code": 13600,
+		"stock": 7000
+	},
+	{
+		"id": 4,
+		"title": "AMARULA",
+		"price": 10000,
+		"thumnail": "image.png",
+		"code": 13700,
+		"stock": 7000
+	}
+]
